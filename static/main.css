@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+    font-family: 'Arial', sans-serif;
+    background-color: #f3f4f6; /* Adds a light grayish background color */
+    color: #333;  /* Dark text color */
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px; /* Making the button slightly larger */
+    background-color: #007BFF; /* Adding a primary color */
+    border: none;
+    border-radius: 5px; /* Making the edges round */
+    color: white; /* Text color */
+    cursor: pointer; /* Changing cursor to pointer on hover */
+    transition: background-color 0.3s; /* Adds transition for hover effect */
+}
+
+button:hover {
+    background-color: #0056b3; /* Darkens the button color slightly on hover */
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 24px; /* Making the result text slightly larger */
+    padding: 10px;
+    border: 2px solid #007BFF; /* Adding a border around the result */
+    border-radius: 5px; /* Making the edges of the result div round */
+}
