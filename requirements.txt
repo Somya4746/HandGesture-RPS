@@ -1,4 +1,4 @@
-Flask==2.0.1
-opencv-python-headless==4.5.3
-numpy==1.21.0
-cvzone==1.5.2
+Flask==3.0
+opencv-python-headless==4.8.1.78
+numpy==1.26
+cvzone==1.6.1
