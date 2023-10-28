@@ -1,0 +1,6 @@
+cvzone==1.5.6
+Flask==3.0.0
+numpy==1.25.2
+opencv_contrib_python==4.8.0.76
+opencv_python==4.8.0.76
+~pencv_contrib_python==4.8.0.76
